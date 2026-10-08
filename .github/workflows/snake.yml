@@ -1,4 +1,4 @@
-name: Serpiente de contribuciones
+name: Serpiente y actividad
 
 on:
   schedule:
@@ -15,6 +15,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generar la serpiente
         uses: Platane/snk/svg-only@v3
         with:
@@ -22,6 +24,12 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Generar la gráfica de actividad
+        run: node .github/scripts/activity.mjs
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publicar en la rama output
         uses: crazy-max/ghaction-github-pages@v4
