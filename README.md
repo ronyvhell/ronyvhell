@@ -98,7 +98,7 @@ correo corporativo y soporte TI.
 
 <p>
 <a href="https://ronyhell.dev"><img src="https://img.shields.io/badge/ronyhell.dev-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portafolio" /></a>
-<a href="https://linkedin.com/in/rony-valdelamar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00IDNhMiAyIDAgMSAxIDAgNCAyIDIgMCAwIDEgMC00ek0yLjUgOWgzdjEyaC0zek05IDloMi45djEuN2MuNS0uOSAxLjctMS45IDMuNS0xLjkgMy42IDAgNC4xIDIuMyA0LjEgNS40VjIxaC0zdi02YzAtMS41IDAtMy4zLTItMy4zcy0yLjQgMS42LTIuNCAzLjJWMjFIOXoiLz48L3N2Zz4%3D&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/rony-valdelamar-9ba63021a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00IDNhMiAyIDAgMSAxIDAgNCAyIDIgMCAwIDEgMC00ek0yLjUgOWgzdjEyaC0zek05IDloMi45djEuN2MuNS0uOSAxLjctMS45IDMuNS0xLjkgMy42IDAgNC4xIDIuMyA0LjEgNS40VjIxaC0zdi02YzAtMS41IDAtMy4zLTItMy4zcy0yLjQgMS42LTIuNCAzLjJWMjFIOXoiLz48L3N2Zz4%3D&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:ronnyandres120@gmail.com"><img src="https://img.shields.io/badge/Correo-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Correo" /></a>
 <img src="https://komarev.com/ghpvc/?username=ronyvhell&style=flat-square&color=555555&label=visitas" alt="Visitas al perfil" />
 </p>
