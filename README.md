@@ -84,12 +84,6 @@ correo corporativo y soporte TI.
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ronyvhell/ronyvhell/output/activity-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ronyvhell/ronyvhell/output/activity-light.svg">
-  <img alt="Gráfica de contribuciones de los últimos 31 días" src="https://raw.githubusercontent.com/ronyvhell/ronyvhell/output/activity-dark.svg" width="100%">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ronyvhell&theme=dark&hide_border=true&background=00000000&ring=f85149&fire=f85149&currStreakLabel=f85149&locale=es">
   <img alt="Racha de contribuciones" src="https://streak-stats.demolab.com?user=ronyvhell&hide_border=true&background=00000000&ring=cf222e&fire=cf222e&currStreakLabel=cf222e&locale=es">
 </picture>
