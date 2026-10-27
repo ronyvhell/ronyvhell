@@ -91,5 +91,3 @@ correo corporativo y soporte TI.
 <a href="mailto:ronnyandres120@gmail.com"><img src="https://img.shields.io/badge/Correo-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Correo" /></a>
 <img src="https://komarev.com/ghpvc/?username=ronyvhell&style=flat-square&color=555555&label=visitas" alt="Visitas al perfil" />
 </p>
-
-<sub>░▒▓ hecho a mano · <a href="https://ronyhell.dev">ronyhell.dev</a> ▓▒░</sub>
